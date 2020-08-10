@@ -1,0 +1,11 @@
+com/example/springboot/Application.java
+ com.example.springboot.Application
+com/example/springboot/models/InfoBuild.java
+ com.example.springboot.models.InfoBuild
+ com.example.springboot.models.InfoBuild$Image
+com/example/springboot/filehandlers/FileToBase64StringConversionUnitTest.java
+ com.example.springboot.filehandlers.FileToBase64StringConversionUnitTest
+com/example/springboot/services/RestService.java
+ com.example.springboot.services.RestService
+com/example/springboot/filehandlers/FileToBase64StringConversion.java
+ com.example.springboot.filehandlers.FileToBase64StringConversion
